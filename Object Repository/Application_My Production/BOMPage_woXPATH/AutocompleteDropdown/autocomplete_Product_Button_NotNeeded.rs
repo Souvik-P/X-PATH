@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>autocomplete_Product_Button_NotNeeded</name>
+   <tag></tag>
+   <elementGuidId>d5e09b1b-ef99-45f2-b10a-f8c34e6ea6c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tn_ProductId']/div[2]/dropdown/div/kendo-combobox/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tn_ProductId&quot;)/div[2]/dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;floating-wrapper lookup-dropdown kendo-dropdown ng-star-inserted&quot;]/kendo-combobox[@class=&quot;k-input-md k-rounded-md k-input-solid k-combobox k-input ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/button[@class=&quot;k-input-button k-button k-icon-button k-button-md k-button-solid k-button-solid-base&quot;]/span[@class=&quot;k-button-icon k-icon k-i-arrow-s&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-button-icon.k-icon.k-i-arrow-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3dbf42c-c2e8-4c29-99ad-0ddf38c598d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button-icon k-icon k-i-arrow-s</value>
+      <webElementGuid>aeb40141-be6a-433d-952f-1f09d432c45f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tn_ProductId&quot;)/div[2]/dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;floating-wrapper lookup-dropdown kendo-dropdown ng-star-inserted&quot;]/kendo-combobox[@class=&quot;k-input-md k-rounded-md k-input-solid k-combobox k-input ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/button[@class=&quot;k-input-button k-button k-icon-button k-button-md k-button-solid k-button-solid-base&quot;]/span[@class=&quot;k-button-icon k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>ec7b62dd-c210-4e3c-9249-e1ca79d0038d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tn_ProductId']/div[2]/dropdown/div/kendo-combobox/button/span</value>
+      <webElementGuid>0148587e-a8ef-4134-905e-3870ae654ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>41eb99ed-b006-489d-9dc0-c52f04692b83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

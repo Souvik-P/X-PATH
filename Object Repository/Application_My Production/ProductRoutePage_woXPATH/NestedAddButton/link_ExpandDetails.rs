@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_ExpandDetails</name>
+   <tag></tag>
+   <elementGuidId>58cc9402-4972-4c9f-a7ba-7279216e205c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.k-icon.k-i-plus.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tn_ProductRouteOperation&quot;)//following::tr[@class=&quot;k-master-row ng-star-inserted&quot;]//child::a[@class=&quot;k-icon k-i-plus ng-star-inserted&quot;][count(. | //*[@title = 'Expand Details']) = count(//*[@title = 'Expand Details'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tn_ProductRouteOperation']/div[2]/div/custom/section/div/div/div[2]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b9521804-a6a8-466d-9e7d-7d5d965b3730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>4e3778d0-326e-4668-8139-0bba1298efaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d13c6f11-e0ef-49b0-8acc-1be93900c48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-plus ng-star-inserted</value>
+      <webElementGuid>91e000f5-7654-43c8-a5b1-296d4a415d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Expand Details</value>
+      <webElementGuid>59b49354-9fb8-43ac-b824-bb69b345d444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Expand Details</value>
+      <webElementGuid>07b1cac2-beca-43a7-93c6-8f74c8f2a06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tn_ProductRouteOperation&quot;)//following::tr[@class=&quot;k-master-row ng-star-inserted&quot;]//child::a[@class=&quot;k-icon k-i-plus ng-star-inserted&quot;]</value>
+      <webElementGuid>c60b5fa2-ebf8-48dd-9a02-a33384ba3fd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tn_ProductRouteOperation']/div[2]/div/custom/section/div/div/div[2]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>75d9625b-feb1-415f-8057-ab8b8d1c2aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[11]</value>
+      <webElementGuid>a7bca300-2f19-4e61-858a-ec3031298e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>8f792c2f-0c9a-4de4-bedc-fa5e66e6b4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @title = 'Expand Details']</value>
+      <webElementGuid>93265a5c-3e46-4187-b4eb-3f30197fdd74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

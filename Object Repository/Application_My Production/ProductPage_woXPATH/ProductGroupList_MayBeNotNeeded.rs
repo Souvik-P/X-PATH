@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ProductGroupList_MayBeNotNeeded</name>
+   <tag></tag>
+   <elementGuidId>9b257205-9cb1-45a2-9b32-306d65520d69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fixedPosition']/app-root/kendo-popup/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Check GroupChild Check GROUP TPG0014PG0015PG125325PG125745PG741236PG751369PG753147PG759153Product Group 01 TProduct group 02 SProduct Group 03 WProduct group 04 FProduct Group General' or . = 'Check GroupChild Check GROUP TPG0014PG0015PG125325PG125745PG741236PG751369PG753147PG759153Product Group 01 TProduct group 02 SProduct Group 03 WProduct group 04 FProduct Group General')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-popup.k-list-container.k-reset</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57c861e9-fecf-4b2e-86e2-726b3cba207e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-popup k-list-container k-reset</value>
+      <webElementGuid>ee77e4d1-10d3-443e-8cc7-28b90eb672d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check GroupChild Check GROUP TPG0014PG0015PG125325PG125745PG741236PG751369PG753147PG759153Product Group 01 TProduct group 02 SProduct Group 03 WProduct group 04 FProduct Group General</value>
+      <webElementGuid>e4124133-1140-4264-b127-e604268ef42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fixedPosition&quot;)/app-root[1]/kendo-popup[@class=&quot;k-animation-container k-animation-container-shown&quot;]/div[@class=&quot;k-popup k-list-container k-reset&quot;]</value>
+      <webElementGuid>81db8b90-9737-4069-8224-072f2e621fb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fixedPosition']/app-root/kendo-popup/div</value>
+      <webElementGuid>2d74bdb0-1303-40d8-b108-e820d62fc723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EAN code'])[1]/following::div[7]</value>
+      <webElementGuid>055c06a5-09ef-4163-a88e-dbd4e44a8324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax code'])[1]/following::div[16]</value>
+      <webElementGuid>06da23f5-3785-4095-adc5-bdf0d18692d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-popup/div</value>
+      <webElementGuid>899b576b-c557-438c-b7c2-eeff7f422ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Check GroupChild Check GROUP TPG0014PG0015PG125325PG125745PG741236PG751369PG753147PG759153Product Group 01 TProduct group 02 SProduct Group 03 WProduct group 04 FProduct Group General' or . = 'Check GroupChild Check GROUP TPG0014PG0015PG125325PG125745PG741236PG751369PG753147PG759153Product Group 01 TProduct group 02 SProduct Group 03 WProduct group 04 FProduct Group General')]</value>
+      <webElementGuid>482afa61-0a84-4d71-a029-9b1f09588212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

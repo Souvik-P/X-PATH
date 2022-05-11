@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ProductGroupSelected</name>
+   <tag></tag>
+   <elementGuidId>cb690955-0ce0-4bd5-9c04-d0129e0ca41d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'product-lookup-productgroup-undefined' and (text() = 'Child Check GROUP T' or . = 'Child Check GROUP T')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#911588ff-994a-44c1-9a0a-97896c5deefd-553bf17e-f65f-4cc0-bf32-e2f83bee6916 > #product-lookup-productgroup-undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4b318a6-b7b4-4da7-a56c-62b19e176114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>template disp-block ng-star-inserted</value>
+      <webElementGuid>b7356761-cb47-4a8a-a770-469e104e05f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product-lookup-productgroup-undefined</value>
+      <webElementGuid>2dcb1312-0a28-479b-9cdf-7c41cc7a4727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Child Check GROUP T</value>
+      <webElementGuid>94da9616-3181-4ab4-947d-2a928c99261f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='product-lookup-productgroup-undefined'])[2]</value>
+      <webElementGuid>9a948de6-5cd6-4427-a25b-476bde181cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='911588ff-994a-44c1-9a0a-97896c5deefd-553bf17e-f65f-4cc0-bf32-e2f83bee6916']/span</value>
+      <webElementGuid>cdbf45fa-fdad-4f6d-a98e-9593d2521aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Group'])[1]/following::span[1]</value>
+      <webElementGuid>141fe423-3d0b-4534-a80c-46e338877327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EAN code'])[1]/following::span[4]</value>
+      <webElementGuid>64be528e-e748-487b-80fc-92e58d26e10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG0014'])[1]/preceding::span[1]</value>
+      <webElementGuid>270f421c-3806-4e1a-b25a-31f8bf0db0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG0015'])[1]/preceding::span[2]</value>
+      <webElementGuid>9158d047-17ee-4de4-8959-8dbeb9a0092c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Child Check GROUP T']/parent::*</value>
+      <webElementGuid>203951ef-94f7-49ae-8f84-258460c58e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>d90efbd8-6b27-4e8f-a405-288c21b86a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'product-lookup-productgroup-undefined' and (text() = 'Child Check GROUP T' or . = 'Child Check GROUP T')]</value>
+      <webElementGuid>3590cab7-4eaf-4bb8-8f34-eec422e3acd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Action</name>
+   <tag></tag>
+   <elementGuidId>80b284bb-e89d-43f4-822c-fe9318acfdea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;fixedPosition&quot;)//following::a[@class=&quot;gridAction mat-menu-trigger ng-star-inserted&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fixedPosition']/app-root/div/language-init/div/div/metadata-init/app-component-initializer/general-ui-display/section/div/div[2]/app-general-ui-list/div/common-grid-data/div/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[3]/td/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d869f61d-acbd-4722-9bf7-f2674d32f5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-ellipsis-v</value>
+      <webElementGuid>76a31305-699b-469f-af8b-2bf5d4a1e057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fixedPosition&quot;)//following::a[@class=&quot;gridAction mat-menu-trigger ng-star-inserted&quot;]</value>
+      <webElementGuid>77b8bf87-8d6e-479a-8bd0-cee2672256b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fixedPosition']/app-root/div/language-init/div/div/metadata-init/app-component-initializer/general-ui-display/section/div/div[2]/app-general-ui-list/div/common-grid-data/div/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[3]/td/div/a/i</value>
+      <webElementGuid>0a124438-e65b-47de-b881-5581ee83d036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/a/i</value>
+      <webElementGuid>c07a4969-63c9-4f57-9c85-229dd808c8b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

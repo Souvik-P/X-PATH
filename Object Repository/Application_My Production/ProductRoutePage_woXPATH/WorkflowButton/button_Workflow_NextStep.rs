@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Workflow_NextStep</name>
+   <tag></tag>
+   <elementGuidId>6188c081-1c04-43e8-8842-56e8cc121a1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#productroute-operation-nextstep</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'productroute-operation-nextstep' and (text() = ' Next step ' or . = ' Next step ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='productroute-operation-nextstep']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>13354500-d092-49d7-a905-716117be1aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6b73e1e3-d9ae-48e8-9836-e60fbb8e85cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary btn-next-step</value>
+      <webElementGuid>7be853d3-4be4-468b-b81c-3883a8e1b5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>productroute-operation-nextstep</value>
+      <webElementGuid>f6e1d64e-5e3d-4263-9f6f-27ede2312f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next step </value>
+      <webElementGuid>8d05b147-8be5-44d7-a709-ca5b157ff254</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='productroute-operation-nextstep']</value>
+      <webElementGuid>36a0d6d9-b92a-47a2-8029-9b999dff9160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fixedPosition']/app-root/div/language-init/div/div/metadata-init/app-component-initializer/app-general-ui-edit/section/app-common-ui-preview/section/div/div/utility-top-bar/h3[4]/div/button</value>
+      <webElementGuid>9aa52f26-8b57-4004-97ba-a8966e4c3987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scproductroute79'])[1]/following::button[1]</value>
+      <webElementGuid>16683a15-46b0-4336-83b7-1f267d2fe495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product route'])[3]/following::button[1]</value>
+      <webElementGuid>716b0680-ff29-4a1f-89e1-73149f7391f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reload'])[1]/preceding::button[1]</value>
+      <webElementGuid>14f9a6e3-2991-4959-8243-76d2d3904d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/preceding::button[2]</value>
+      <webElementGuid>74de4018-5b37-4989-9166-ab55be1230db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next step']/parent::*</value>
+      <webElementGuid>887daea2-300b-43ef-859a-bf3b69dd5f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>93cf23f2-fd77-4552-87bd-63f2c24dedfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'productroute-operation-nextstep' and (text() = ' Next step ' or . = ' Next step ')]</value>
+      <webElementGuid>9c9dcf68-b4f2-4ba8-b5b2-16af28209318</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

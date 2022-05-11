@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Login</name>
+   <tag></tag>
+   <elementGuidId>380c520e-f9d5-42ad-96ef-5970f26bb0f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fixedPosition']/app-root/div/app-login/div/div/div/div/div/div/div/div/form/div[5]/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;fixedPosition&quot;)/app-root[1]/div[1]/app-login[1]/div[@class=&quot;account-body&quot;]/div[@class=&quot;accountbg&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-12 align-self-center&quot;]/div[@class=&quot;auth-page&quot;]/div[@class=&quot;card auth-card shadow-lg&quot;]/div[@class=&quot;login-body&quot;]/div[@class=&quot;px-3&quot;]/form[@class=&quot;form-horizontal auth-form my-4 ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;form-group mb-0 row&quot;]/div[@class=&quot;col-12 mt-2&quot;]/button[@class=&quot;btn&quot;]/div[@class=&quot;icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a5e04a4-1909-478e-a3aa-9df577734aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>dd973bf4-e56f-4a9a-8476-0559b606ea45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fixedPosition&quot;)/app-root[1]/div[1]/app-login[1]/div[@class=&quot;account-body&quot;]/div[@class=&quot;accountbg&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-12 align-self-center&quot;]/div[@class=&quot;auth-page&quot;]/div[@class=&quot;card auth-card shadow-lg&quot;]/div[@class=&quot;login-body&quot;]/div[@class=&quot;px-3&quot;]/form[@class=&quot;form-horizontal auth-form my-4 ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;form-group mb-0 row&quot;]/div[@class=&quot;col-12 mt-2&quot;]/button[@class=&quot;btn&quot;]/div[@class=&quot;icon&quot;]</value>
+      <webElementGuid>30c78ada-6baf-4dac-96cc-50cd8f768602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_Login</value>
+      <webElementGuid>33b49a2c-8d06-4285-a043-27b29fed1937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fixedPosition']/app-root/div/app-login/div/div/div/div/div/div/div/div/form/div[5]/div/button/div</value>
+      <webElementGuid>fd73a056-8cd8-42f8-868b-30e32fb908c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/following::div[1]</value>
+      <webElementGuid>567dab61-1705-4004-87b9-301ca2f6f5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::div[3]</value>
+      <webElementGuid>8b9fd342-c8b5-4c04-aa91-90de564cbe66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2021 myproduction'])[1]/preceding::div[1]</value>
+      <webElementGuid>db37b227-3cd7-46ef-86e8-d06772567d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[2]</value>
+      <webElementGuid>138f7fd7-be2f-49ed-ad19-853c763479bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>d5ad1c83-ffb4-4897-989d-f38ac0ba5836</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

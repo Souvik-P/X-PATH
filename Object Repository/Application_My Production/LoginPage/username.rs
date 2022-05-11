@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>username</name>
+   <tag></tag>
+   <elementGuidId>79854e0b-c04e-4c1e-8cc3-e407a35b43d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fixedPosition']/app-root/div/app-login/div/div/div/div/div/div/div/div/form/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Enter Username']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b15a535b-5bfc-47dc-b799-59a4ff1bedb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>0fb828f2-bf78-4473-aef9-073c146f4855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>25e35f8b-6d8e-4763-aa5e-7dae8d88afaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>1c2967a1-f3d4-45e1-be6c-6e0c978b357a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Username</value>
+      <webElementGuid>6c8ae123-ad26-437f-96c0-74a516b75b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fixedPosition&quot;)/app-root[1]/div[1]/app-login[1]/div[@class=&quot;account-body&quot;]/div[@class=&quot;accountbg&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-12 align-self-center&quot;]/div[@class=&quot;auth-page&quot;]/div[@class=&quot;card auth-card shadow-lg&quot;]/div[@class=&quot;login-body&quot;]/div[@class=&quot;px-3&quot;]/form[@class=&quot;form-horizontal auth-form my-4 ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>de97915e-2c4b-4089-8562-31d4ca7b96e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fixedPosition']/app-root/div/app-login/div/div/div/div/div/div/div/div/form/div[2]/div/input</value>
+      <webElementGuid>42f57612-7835-4b62-a7c4-ebc9d46e2ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>cf334b7a-5c5a-45a1-a350-2ccfeeceb6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter Username']</value>
+      <webElementGuid>c3892af3-ae67-4c3b-bd78-7f1fd67a87ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

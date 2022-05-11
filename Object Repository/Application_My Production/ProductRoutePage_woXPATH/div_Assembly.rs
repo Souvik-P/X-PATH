@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assembly</name>
+   <tag></tag>
+   <elementGuidId>8f65aa02-e198-4d90-ae54-88a78f97afcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tn_ProductRouteOperation']/div[2]/div/custom/section/div/div/div[2]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[2]/td[5]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Assembly' or . = 'Assembly')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.k-touch-action-auto.ng-star-inserted.k-state-focused > div.editableColumn.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c867b81-4533-4dcb-8816-fab2366d9016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editableColumn ng-star-inserted</value>
+      <webElementGuid>4cc51eed-2a90-4643-b349-347cf8ae078d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assembly</value>
+      <webElementGuid>2c8d2363-d596-4498-9e45-697740b426bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tn_ProductRouteOperation&quot;)/div[@class=&quot;item&quot;]/div[1]/custom[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;detail-entity-wrapper&quot;]/div[@class=&quot;card-body&quot;]/app-general-ui-list[@class=&quot;ng-tns-c756-34&quot;]/div[@class=&quot;ng-tns-c756-34 ng-star-inserted&quot;]/detail-entity-grid[@class=&quot;ng-tns-c756-34 ng-star-inserted&quot;]/div[@class=&quot;detail-entity-row&quot;]/div[@class=&quot;kendoGrid kendoGrid-preview&quot;]/kendo-grid[@class=&quot;k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-alt k-master-row ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto ng-star-inserted k-state-focused&quot;]/div[@class=&quot;editableColumn ng-star-inserted&quot;]</value>
+      <webElementGuid>c6f670d9-897b-45bd-b008-2b488adf1194</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tn_ProductRouteOperation']/div[2]/div/custom/section/div/div/div[2]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[2]/td[5]/div</value>
+      <webElementGuid>ed306b5d-fe99-44d8-8ba5-b7938332d334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRO22000062'])[2]/following::div[2]</value>
+      <webElementGuid>102d34ff-590c-468c-9d4a-17079400df41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRO22000062'])[1]/following::div[3]</value>
+      <webElementGuid>480ec15d-ff8c-4a96-9dc0-46d733f85a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::div[3]</value>
+      <webElementGuid>cfcfd623-6635-4b12-9b17-f5fb0dae8aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/div</value>
+      <webElementGuid>76800595-9123-462a-adfd-cfcaa4eef3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assembly' or . = 'Assembly')]</value>
+      <webElementGuid>3a31e376-6925-47d1-b6fe-15fccdccab90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

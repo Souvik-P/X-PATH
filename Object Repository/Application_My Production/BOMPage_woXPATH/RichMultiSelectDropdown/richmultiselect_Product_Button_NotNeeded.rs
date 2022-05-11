@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>richmultiselect_Product_Button_NotNeeded</name>
+   <tag></tag>
+   <elementGuidId>fd0dfda8-9a58-4ae9-ba30-272c1601bef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tn_ProductId']/div[2]/dropdown/div/custom-dropdown/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tn_ProductId&quot;)/div[2]/dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;floating-wrapper lookup-dropdown kendo-dropdown ng-star-inserted&quot;]/custom-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;position-relative&quot;]/span[@class=&quot;dropdown-toggle d-block position-absolute&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.dropdown-toggle.d-block.position-absolute</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a028bc65-5c0d-4c39-b1be-03ad061b296a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle d-block position-absolute</value>
+      <webElementGuid>f5ae5bf1-07f9-4b48-a6c6-97bd88407512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tn_ProductId&quot;)/div[2]/dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;floating-wrapper lookup-dropdown kendo-dropdown ng-star-inserted&quot;]/custom-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;position-relative&quot;]/span[@class=&quot;dropdown-toggle d-block position-absolute&quot;]</value>
+      <webElementGuid>23c0cc8a-9ef3-436c-9403-d6b2151d2a6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tn_ProductId']/div[2]/dropdown/div/custom-dropdown/div/div/div/div/span</value>
+      <webElementGuid>35f9e69f-b06b-4153-8311-63ce824005a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span</value>
+      <webElementGuid>888f888d-6a04-4540-95fb-91a5fc08e224</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

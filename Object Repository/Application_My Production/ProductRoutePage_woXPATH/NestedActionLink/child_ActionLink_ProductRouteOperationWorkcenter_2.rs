@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>child_ActionLink_ProductRouteOperationWorkcenter_2</name>
+   <tag></tag>
+   <elementGuidId>f55decdd-649c-436d-8cdb-b4a0c7c2fecf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;tn_ProductRouteOperation&quot;)/div[@class=&quot;item&quot;]/div[1]/custom[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;detail-entity-wrapper&quot;]/div[@class=&quot;card-body&quot;]/app-general-ui-list[@class=&quot;ng-tns-c756-44&quot;]/div[@class=&quot;ng-tns-c756-44 ng-star-inserted&quot;]/detail-entity-grid[@class=&quot;ng-tns-c756-44 ng-star-inserted&quot;]/div[@class=&quot;detail-entity-row&quot;]/div[@class=&quot;kendoGrid&quot;]/kendo-grid[@class=&quot;k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-detail-row ng-star-inserted&quot;]/td[@class=&quot;k-detail-cell&quot;]/div[@class=&quot;row margin-bottom-30 ng-star-inserted&quot;]/div[@class=&quot;col-lg-12&quot;]/custom[1]/section[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;detail-entity-wrapper&quot;]/div[@class=&quot;card-body&quot;]/app-general-ui-list[@class=&quot;ng-tns-c756-56&quot;]/div[@class=&quot;ng-tns-c756-56 ng-star-inserted&quot;]/detail-entity-grid[@class=&quot;ng-tns-c756-56 ng-star-inserted&quot;]/div[@class=&quot;detail-entity-row&quot;]/div[@class=&quot;kendoGrid&quot;]/kendo-grid[@class=&quot;k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-alt k-master-row ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto k-command-cell ng-star-inserted k-state-focused&quot;]/div[@class=&quot;pnlAction ng-star-inserted&quot;]/a[@class=&quot;mat-menu-trigger gridAction ng-star-inserted&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.k-touch-action-auto.k-command-cell.ng-star-inserted.k-state-focused > div.pnlAction.ng-star-inserted > a.mat-menu-trigger.gridAction.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tn_ProductRouteOperation']/div[2]/div/custom/section/div/div/div[3]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[2]/td[2]/div[4]/div/custom/section/div/div/div[3]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[2]/td[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd533fde-a382-4642-af08-08f8c3d8b225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d6d10e05-6215-4c97-95d3-171e7a4dee01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-menu-trigger gridAction ng-star-inserted</value>
+      <webElementGuid>8017d99e-e50f-4916-a168-4f564d609615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tn_ProductRouteOperation&quot;)/div[@class=&quot;item&quot;]/div[1]/custom[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;detail-entity-wrapper&quot;]/div[@class=&quot;card-body&quot;]/app-general-ui-list[@class=&quot;ng-tns-c756-44&quot;]/div[@class=&quot;ng-tns-c756-44 ng-star-inserted&quot;]/detail-entity-grid[@class=&quot;ng-tns-c756-44 ng-star-inserted&quot;]/div[@class=&quot;detail-entity-row&quot;]/div[@class=&quot;kendoGrid&quot;]/kendo-grid[@class=&quot;k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-detail-row ng-star-inserted&quot;]/td[@class=&quot;k-detail-cell&quot;]/div[@class=&quot;row margin-bottom-30 ng-star-inserted&quot;]/div[@class=&quot;col-lg-12&quot;]/custom[1]/section[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;detail-entity-wrapper&quot;]/div[@class=&quot;card-body&quot;]/app-general-ui-list[@class=&quot;ng-tns-c756-56&quot;]/div[@class=&quot;ng-tns-c756-56 ng-star-inserted&quot;]/detail-entity-grid[@class=&quot;ng-tns-c756-56 ng-star-inserted&quot;]/div[@class=&quot;detail-entity-row&quot;]/div[@class=&quot;kendoGrid&quot;]/kendo-grid[@class=&quot;k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-alt k-master-row ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto k-command-cell ng-star-inserted k-state-focused&quot;]/div[@class=&quot;pnlAction ng-star-inserted&quot;]/a[@class=&quot;mat-menu-trigger gridAction ng-star-inserted&quot;]</value>
+      <webElementGuid>95d928b7-46c5-4d2c-ac0e-495d9d2f2175</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tn_ProductRouteOperation']/div[2]/div/custom/section/div/div/div[3]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[2]/td[2]/div[4]/div/custom/section/div/div/div[3]/app-general-ui-list/div/detail-entity-grid/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[2]/td[2]/div/a</value>
+      <webElementGuid>95056dbc-043a-4fe4-909e-3f5dffd884bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::a[2]</value>
+      <webElementGuid>2c09e6f4-d3b7-4360-8e26-8d619d0d11e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new_WRKC_2022_05_04_01'])[1]/following::a[2]</value>
+      <webElementGuid>9050625c-3333-4e3c-b129-889dce4dc874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WRKC-741369'])[1]/preceding::a[3]</value>
+      <webElementGuid>42313f4b-75c9-4ce0-a8ec-39bb1bfaa598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[3]/preceding::a[3]</value>
+      <webElementGuid>c068f31d-4449-49c8-8fbd-a87b100772ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/div/a</value>
+      <webElementGuid>3f65eb53-d11a-40bb-af3e-c5d4c2fba716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

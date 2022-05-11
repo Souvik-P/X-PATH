@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_Product_Selected</name>
+   <tag></tag>
+   <elementGuidId>2bf31fbe-7a40-4b7f-9124-5b21b390b02d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='bom-lookup-productid-19']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[starts-with(@id, 'bom-lookup-productid-') and (text() = '100864' or . = '100864')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bom-lookup-productid-19</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0dea2e75-2a1b-430a-a3ac-1c8b2fc534c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>template disp-block ng-star-inserted</value>
+      <webElementGuid>db1175ac-6b8c-4380-8d19-d244e9be7afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>starts with</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bom-lookup-productid-</value>
+      <webElementGuid>5e706616-8c87-43ee-a678-547267a70998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>100864</value>
+      <webElementGuid>69beabaa-4311-42a8-8ebf-c0566f677e8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='bom-lookup-productid-19']</value>
+      <webElementGuid>e88e2af9-cfe0-4430-a57e-e39206c77865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='c6a0f09c-714c-4892-9b80-bb7d699455ec-dabf5833-9bb1-438c-b611-b057168cc982']/span</value>
+      <webElementGuid>c7b97864-65bc-4f4c-a7b4-4db1ac9a931f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[4]/following::span[19]</value>
+      <webElementGuid>dc5ee21c-158a-4b1c-b1d6-c427ba05ec22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[22]</value>
+      <webElementGuid>d70dcad5-d5c7-4e27-966d-190570702e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1 Test NSD'])[1]/preceding::span[19]</value>
+      <webElementGuid>a1489116-0efd-4ae9-a016-e91ef9893ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A2 NSD'])[1]/preceding::span[20]</value>
+      <webElementGuid>9b9851a0-ac92-4057-ae23-e8ba2446b929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='100864']/parent::*</value>
+      <webElementGuid>27d16b52-7990-463b-85e3-bd992ddfc57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[20]/span</value>
+      <webElementGuid>938a2017-e900-46c9-a5a8-cab11a71aa1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'bom-lookup-productid-19' and (text() = '100864' or . = '100864')]</value>
+      <webElementGuid>7c9c6ccd-04f3-4857-a3ea-3d7074f450fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

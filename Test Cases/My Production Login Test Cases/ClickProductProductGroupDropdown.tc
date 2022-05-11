@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click ProductGroup Dropdown in Product page.</description>
+   <name>ClickProductProductGroupDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36482ff2-c455-4ee4-a3ed-3e6a6f58633f</testCaseGuid>
+</TestCaseEntity>

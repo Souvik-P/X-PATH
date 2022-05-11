@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_CompetenceSelected_2</name>
+   <tag></tag>
+   <elementGuidId>fc82b1ef-7d90-4f9d-9ba7-50128de05e23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>.//*[@id='tn_Competence']//following::ng-multiselect-dropdown//child::li[count(. | //*[(text() = 'COMNEW46123' or . = 'COMNEW46123')]) = count(//*[(text() = 'COMNEW46123' or . = 'COMNEW46123')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tn_Competence']/div[2]/multiselect-dropdown/div/div/ng-multiselect-dropdown/div/div[2]/ul[2]/li[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>075a4b87-d6ba-4f68-b5d1-912d8de1c16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COMNEW46123</value>
+      <webElementGuid>4cdee288-e51c-4230-8865-86049a975b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>.//*[@id='tn_Competence']//following::ng-multiselect-dropdown//child::li[count(. | //*[(text() = 'COMNEW46123' or . = 'COMNEW46123')]) = count(//*[(text() = 'COMNEW46123' or . = 'COMNEW46123')])]</value>
+      <webElementGuid>f0a3272f-aba1-4b7e-8c43-58cc5e61e9f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tn_Competence']/div[2]/multiselect-dropdown/div/div/ng-multiselect-dropdown/div/div[2]/ul[2]/li[3]/div</value>
+      <webElementGuid>c3c047e5-040e-4701-b9cb-e7448abb6a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance'])[1]/following::div[1]</value>
+      <webElementGuid>e626aa37-d317-41cd-b072-458a92156870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[2]/following::div[3]</value>
+      <webElementGuid>e6dd57ad-02c5-45fe-a168-18b754efd7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert'])[1]/preceding::div[1]</value>
+      <webElementGuid>66b4007f-726c-4bed-929d-8d22d37d25d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intermidate'])[1]/preceding::div[2]</value>
+      <webElementGuid>3f7d7391-7f28-4df9-86e9-15ad6a6f2db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COMNEW46123']/parent::*</value>
+      <webElementGuid>7ba60e31-16c8-4f33-9da3-033df049e691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//my-tree-node[4]/div/div/div/div[2]/multiselect-dropdown/div/div/ng-multiselect-dropdown/div/div[2]/ul[2]/li[3]/div</value>
+      <webElementGuid>718b1cdc-e747-4481-a55f-a775f3b9376a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'COMNEW46123' or . = 'COMNEW46123')]</value>
+      <webElementGuid>0f784a3b-555f-473b-951f-9369b748aad4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

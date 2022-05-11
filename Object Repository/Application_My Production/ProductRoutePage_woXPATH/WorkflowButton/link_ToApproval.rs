@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_ToApproval</name>
+   <tag></tag>
+   <elementGuidId>43801532-ed81-4706-9af1-c15aa2ba5f11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#productroute-operation-nextstep-step-to-approval</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and @id = 'productroute-operation-nextstep-step-to-approval' and (text() = ' To approval' or . = ' To approval')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='productroute-operation-nextstep-step-to-approval']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>696cda1c-748a-4fee-9f04-cbbdfe71e116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>c3accbc8-c43b-4bd8-9b2f-a59a389c6f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ng-star-inserted</value>
+      <webElementGuid>289cc779-72a3-488d-bab7-c7bdde09bc02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>productroute-operation-nextstep-step-to-approval</value>
+      <webElementGuid>483b146b-d6c0-4fbd-9ec2-466e662408ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> To approval</value>
+      <webElementGuid>bc669c0e-54e8-44cc-bfd7-1cedf208d373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='productroute-operation-nextstep-step-to-approval']</value>
+      <webElementGuid>d595ed3b-33d3-41ce-bcb5-32f12f9d321a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fixedPosition']/app-root/div/language-init/div/div/metadata-init/app-component-initializer/app-general-ui-edit/section/app-common-ui-preview/section/div/div/utility-top-bar/h3[4]/div/div/a</value>
+      <webElementGuid>93c5ccde-41ba-46e8-b532-78af04f9992b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'To approval')]</value>
+      <webElementGuid>ea949a3e-a5f1-4c05-9ea9-cd92f8f1f6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next step'])[1]/following::a[1]</value>
+      <webElementGuid>32abb4a4-df41-41ce-8e2d-f159076b1d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scproductroute79'])[1]/following::a[6]</value>
+      <webElementGuid>8701d546-d472-45cd-af54-9b47b6a9022f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reload'])[1]/preceding::a[1]</value>
+      <webElementGuid>783f5bb6-23ed-49a0-a249-20748485a268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/preceding::a[1]</value>
+      <webElementGuid>f0d23f2f-76f5-484c-8e96-4785e9c57b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='To approval']/parent::*</value>
+      <webElementGuid>23a0d0a6-9421-4542-92c0-75e5b4fd488b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>15763be0-e67b-466b-b8ad-14c751336b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>55403d98-f58b-4e25-8be4-9b9af228996e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'productroute-operation-nextstep-step-to-approval' and (text() = ' To approval' or . = ' To approval')]</value>
+      <webElementGuid>b9fe2bee-be49-45a6-9422-0fc5e85f2b26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

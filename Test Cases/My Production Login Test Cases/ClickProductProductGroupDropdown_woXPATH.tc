@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Product ProductGroup Dropdown without XPATH</description>
+   <name>ClickProductProductGroupDropdown_woXPATH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e040087f-e100-42ae-ae40-9ec86ef7e808</testCaseGuid>
+</TestCaseEntity>
